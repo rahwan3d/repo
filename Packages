@@ -10,3 +10,5 @@ Depends: com.anemonetheming.anemone | com.spark.snowboard
 Icon: https://www.dropbox.com/scl/fi/9hpwx6e4kvn9wg9ref0pd/Icon.png?rlkey=4s68b0h2s1vb9cs3yl43idmvy&dl=0
 Section: Themes
 Filename : ./debs/com.rahwan3d.TrollUnreal.deb
+Depiction:  https://rahwan3d.github.io/repo/depictions/TrollUnreal
+Size: 1,158,763
