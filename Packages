@@ -5,10 +5,24 @@ Architecture: iphoneos-arm64
 Description: A beatutiful Theme to spice up Trollstore
 Author: rahwan3d
 Maintainer: rahwan3d
+Icon: TrollUnrealIcon.png
 Section: Themes
 Depends: com.anemonetheming.anemone | com.spark.snowboard
-Icon: https://www.dropbox.com/scl/fi/9hpwx6e4kvn9wg9ref0pd/Icon.png?rlkey=4s68b0h2s1vb9cs3yl43idmvy&dl=0
 Section: Themes
 Filename : ./debs/com.rahwan3d.TrollUnreal.deb
 Depiction:  https://rahwan3d.github.io/repo/depictions/TrollUnreal
-Size: 1,158,763
+Size: 1158763
+MD5sum: F232A6B2124D632A7BD9133CF998E1F2
+
+Package: com.rahwan3d.VisionKeysObsidian
+Name: VisionKeys Obsidian
+Version: 1.0
+Maintainer: rahwan3d
+Architecture: iphoneos-arm64
+Author: rahwan3d
+Description: A beautiful Dark mode theme for Laetus
+Section: Laetus Themes
+Filename : ./debs/com.rahwan3d.VisionKeysObsidian.deb
+Depiction:  https://rahwan3d.github.io/repo/depictions/VisionKeysObsidian
+Size: 291795
+MD5sum: AAAC10DBCF0774CFA10A755793EA643C
