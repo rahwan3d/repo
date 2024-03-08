@@ -14,7 +14,7 @@
       background: linear-gradient(45deg, #007991, #78ffd6, #83c5be);
       background-size: 400% 400%;
       color: #fff;
-      overflow: hidden;
+      overflow-x: hidden; /* Disable horizontal scrolling */
       margin: 0;
     }
 
@@ -35,12 +35,12 @@
       margin: 0 auto;
       position: relative;
       z-index: 1;
-      padding-top: 50px; /* Adjusted padding */
+      padding-top: 50px;
     }
 
-    h1 {
+    h1, h2 {
       margin-bottom: 30px;
-      color: #052231; /* Updated name color */
+      color: #052231; /* Updated label color */
       font-size: 3em;
       text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
     }
@@ -77,8 +77,8 @@
     }
 
     .btn-primary {
-      background: linear-gradient(45deg, #ffcc00, #ff6666);
-      border: 2px solid #ffcc00;
+      background: linear-gradient(45deg, #ff8a00, #e52e71);
+      border: 2px solid #ff8a00;
       color: #fff;
       transition: background 0.5s ease-in-out, border 0.5s ease-in-out, color 0.5s ease-in-out;
       width: 48%;
@@ -98,8 +98,8 @@
     }
 
     .btn-primary:hover {
-      background: linear-gradient(45deg, #ff9966, #ff5050);
-      border-color: #ff9966;
+      background: linear-gradient(45deg, #ff6347, #ff4500);
+      border-color: #ff6347;
     }
 
     /* Links and social icons styles */
@@ -196,8 +196,6 @@
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     document.body.style.animation = "gradient 15s ease infinite";
-    document.body.style.background = "linear-gradient(45deg, #007991, #78ffd6, #83c5be)";
-    document.body.style.backgroundSize = "400% 400%";
   });
 </script>
 
