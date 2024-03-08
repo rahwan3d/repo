@@ -7,43 +7,108 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="depictions/style.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
   <style>
-    /* Remove dots and adjust spacing for Contacts and Links */
-    .contacts-links {
-      margin-top: 20px; /* Adjust the margin as needed */
+    /* Global styles */
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f8f9fa;
+      color: #343a40;
     }
 
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      margin-bottom: 30px;
+      color: #007bff;
+      font-size: 2.5em;
+    }
+
+    img.logo {
+      width: 100px;
+      height: auto;
+      margin-right: 10px;
+    }
+
+    /* Card styles */
+    .card {
+      border: none;
+      border-radius: 15px;
+      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+      transition: transform 0.3s ease-in-out;
+    }
+
+    .card:hover {
+      transform: scale(1.05);
+    }
+
+    .card-body {
+      padding: 30px;
+    }
+
+    /* Button styles */
+    .btn-container {
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .btn-primary {
+      background-color: #007bff;
+      border: 2px solid #007bff;
+      color: #fff;
+      transition: background-color 0.3s ease-in-out, border-color 0.3s ease-in-out, color 0.3s ease-in-out;
+      width: 48%;
+    }
+
+    .btn-primary:hover {
+      background-color: #0056b3;
+      border-color: #0056b3;
+    }
+
+    /* Links and social icons styles */
     .social-links, .links-list {
       padding-left: 0;
-      margin-top: 0; /* Adjust the margin as needed */
+      margin-top: 0;
     }
 
     .social-links li, .links-list li {
       list-style: none;
-      margin-bottom: 5px; /* Adjust the margin as needed */
+      margin-bottom: 15px;
     }
 
-    .card-body {
-      padding: 15px; /* Adjust the padding as needed */
+    .fa {
+      margin-right: 10px;
+      color: #007bff;
+      font-size: 1.5em;
+    }
+
+    /* Footer styles */
+    footer {
+      margin-top: 50px;
+      text-align: center;
+      color: #6c757d;
     }
   </style>
 </head>
 <body>
 
-<div class="container">
-  <h1><img src="rahwan3d.png"> rahwan3d</h1>
+<div class="container text-center">
+  <h1><img src="rahwan3d.png" alt="rahwan3d logo" class="logo"> rahwan3d</h1>
 </div>
 
-<div class="container contacts-links">
+<div class="container mt-4">
   <div class="card">
     <div class="card-body">
-      <p><span class="text-primary"><b>rahwan3d</b></span> serves as a themes repository for Sileo/Cydia.</p>
-      <a class="btn btn-sm btn-primary" href="sileo://source/https://rahwan3d.github.io/repo/">Add to Sileo</a>
-      <a class="btn btn-sm btn-primary" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://rahwan3d.github.io/repo/">Add to Cydia</a>
+      <p class="lead text-muted">Serving as a themes repository for Sileo/Cydia.</p>
+      <div class="btn-container">
+        <a class="btn btn-primary btn-sm" href="sileo://source/https://rahwan3d.github.io/repo/">Add to Sileo</a>
+        <a class="btn btn-primary btn-sm" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://rahwan3d.github.io/repo/">Add to Cydia</a>
+      </div>
     </div>
   </div>
-  <h2>Contacts</h2>
+  <h2 class="mt-4">Contacts</h2>
   <div class="card">
     <div class="card-body">
       <ul class="list-unstyled social-links">
@@ -65,14 +130,13 @@
       </ul>
     </div>
   </div>
-  <h2>Links</h2>
+  <h2 class="mt-4">Links</h2>
   <div class="card">
     <div class="card-body">
       <ul class="list-unstyled links-list">
-        <!-- Add your links here using the template -->
         <li>
           <a href="https://linktr.ee/rahwan3d?utm_source=linktree_profile_share&ltsid=ddd07505-589b-4555-9c7c-d94ec6421657">
-            <i class="fa fa-link"></i> Linktr.ee
+            <i class="fa fa-external-link"></i> Linktr.ee
           </a>
         </li>
         <!-- Add more links as needed -->
@@ -80,6 +144,10 @@
     </div>
   </div>
 </div>
+
+<footer>
+  <p>&copy; 2024 rahwan3d. All rights reserved.</p>
+</footer>
 
 </body>
 </html>
