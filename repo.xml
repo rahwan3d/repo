@@ -1,7 +1,7 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow me on X</name>
+			<name>Follow me on twitter</name>
 			<url>https://twitter.com/rahwan3d</url>
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
@@ -9,6 +9,11 @@
 			<name>Follow me on instagram</name>
 			<url>https://www.instagram.com/rahwan3d</url>
 			<iconclass>fa fa-instagram</iconclass>
+		</link>
+		<link>
+			<name>YouTube</name>
+			<url>https://www.youtube.com/@rahwan3d</url>
+			<iconclass>fa fa-youtube-play</iconclass>
 		</link>
 	</footerlinks>
 </repo>
