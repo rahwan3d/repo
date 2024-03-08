@@ -11,8 +11,23 @@
     /* Global styles */
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #f8f9fa;
-      color: #343a40;
+      background: linear-gradient(45deg, #3498db, #2ecc71);
+      background-size: 400% 400%;
+      animation: gradient 15s ease infinite;
+      color: #fff;
+      overflow: hidden; /* Prevent gradient overflow */
+    }
+
+    @keyframes gradient {
+      0% {
+        background-position: 0% 50%;
+      }
+      50% {
+        background-position: 100% 50%;
+      }
+      100% {
+        background-position: 0% 50%;
+      }
     }
 
     .container {
@@ -22,8 +37,9 @@
 
     h1 {
       margin-bottom: 30px;
-      color: #007bff;
-      font-size: 2.5em;
+      color: #0056b3;
+      font-size: 3em;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
     }
 
     img.logo {
@@ -35,8 +51,8 @@
     /* Card styles */
     .card {
       border: none;
-      border-radius: 15px;
-      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+      border-radius: 20px;
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
       transition: transform 0.3s ease-in-out;
     }
 
@@ -52,19 +68,22 @@
     .btn-container {
       display: flex;
       justify-content: space-between;
+      margin-top: 20px;
     }
 
     .btn-primary {
-      background-color: #007bff;
-      border: 2px solid #007bff;
+      background-color: #0056b3;
+      border: 2px solid #0056b3;
       color: #fff;
       transition: background-color 0.3s ease-in-out, border-color 0.3s ease-in-out, color 0.3s ease-in-out;
       width: 48%;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     }
 
     .btn-primary:hover {
-      background-color: #0056b3;
-      border-color: #0056b3;
+      background-color: #003366;
+      border-color: #003366;
     }
 
     /* Links and social icons styles */
@@ -80,8 +99,12 @@
 
     .fa {
       margin-right: 10px;
-      color: #007bff;
+      color: #fff;
+      background-color: #0056b3;
+      padding: 8px;
+      border-radius: 50%;
       font-size: 1.5em;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     }
 
     /* Footer styles */
