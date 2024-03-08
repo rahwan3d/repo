@@ -11,20 +11,36 @@
     /* Global styles */
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(45deg, #007991, #78ffd6, #83c5be);
+      background-size: 400% 400%;
+      color: #fff;
+      overflow: hidden;
       margin: 0;
-      padding: 0;
-      overflow-x: hidden;
+    }
+
+    @keyframes gradient {
+      0% {
+        background-position: 0% 50%;
+      }
+      50% {
+        background-position: 100% 50%;
+      }
+      100% {
+        background-position: 0% 50%;
+      }
     }
 
     .container {
       max-width: 800px;
       margin: 0 auto;
-      padding: 20px;
+      position: relative;
+      z-index: 1;
+      padding-top: 50px; /* Adjusted padding */
     }
 
     h1 {
       margin-bottom: 30px;
-      color: #19c3dd;
+      color: #052231; /* Updated name color */
       font-size: 3em;
       text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
     }
@@ -39,9 +55,10 @@
     .card {
       border: none;
       border-radius: 20px;
-      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
       transition: transform 0.3s ease-in-out;
-      background: #fff;
+      background-color: rgba(0, 0, 0, 0.8);
+      margin-bottom: 20px;
     }
 
     .card:hover {
@@ -60,14 +77,15 @@
     }
 
     .btn-primary {
-      background-color: #19c3dd;
-      border: 2px solid #19c3dd;
+      background: linear-gradient(45deg, #ffcc00, #ff6666);
+      border: 2px solid #ffcc00;
       color: #fff;
-      transition: background-color 0.5s ease-in-out, border-color 0.5s ease-in-out, color 0.5s ease-in-out;
+      transition: background 0.5s ease-in-out, border 0.5s ease-in-out, color 0.5s ease-in-out;
       width: 48%;
       border-radius: 10px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
       animation: buttonAnimation 2s infinite alternate ease-in-out;
+      opacity: 0.9;
     }
 
     @keyframes buttonAnimation {
@@ -77,6 +95,11 @@
       100% {
         transform: scale(1.05);
       }
+    }
+
+    .btn-primary:hover {
+      background: linear-gradient(45deg, #ff9966, #ff5050);
+      border-color: #ff9966;
     }
 
     /* Links and social icons styles */
@@ -93,11 +116,16 @@
     .fa {
       margin-right: 10px;
       color: #fff;
-      background-color: #19c3dd;
+      background-color: rgba(0, 0, 0, 0.8);
       padding: 8px;
       border-radius: 50%;
       font-size: 1.5em;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+      transition: transform 0.3s ease-in-out;
+    }
+
+    .fa:hover {
+      transform: scale(1.2);
     }
 
     /* Footer styles */
@@ -105,32 +133,6 @@
       margin-top: 50px;
       text-align: center;
       color: #6c757d;
-    }
-
-    /* Gradient animation */
-    body::before {
-      content: "";
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      z-index: -1;
-      animation: gradientAnimation 20s infinite linear;
-      background: linear-gradient(-45deg, #ff5e62, #ffa647, #28a745, #19c3dd, #9d4edd, #ff5e62);
-      background-size: 400% 400%;
-    }
-
-    @keyframes gradientAnimation {
-      0% {
-        background-position: 0% 50%;
-      }
-      50% {
-        background-position: 100% 50%;
-      }
-      100% {
-        background-position: 0% 50%;
-      }
     }
   </style>
 </head>
@@ -190,6 +192,14 @@
 <footer>
   <p>&copy; 2024 rahwan3d. All rights reserved.</p>
 </footer>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.body.style.animation = "gradient 15s ease infinite";
+    document.body.style.background = "linear-gradient(45deg, #007991, #78ffd6, #83c5be)";
+    document.body.style.backgroundSize = "400% 400%";
+  });
+</script>
 
 </body>
 </html>
