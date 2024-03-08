@@ -115,13 +115,9 @@
 
     .fa {
       margin-right: 10px;
-      color: #fff;
-      background-color: rgba(0, 0, 0, 0.8);
-      padding: 8px;
-      border-radius: 50%;
+      color: #ff8a00; /* Updated icon color */
       font-size: 1.5em;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-      transition: transform 0.3s ease-in-out;
+      transition: transform 0.3s ease-in-out, color 0.3s ease-in-out;
     }
 
     .fa:hover {
@@ -133,6 +129,16 @@
       margin-top: 50px;
       text-align: center;
       color: #6c757d;
+    }
+
+    /* Pressed label styles */
+    .pressed-label {
+      color: #ff6347; /* Same color as the button */
+      transition: color 0.3s ease-in-out;
+    }
+
+    .pressed-label:hover {
+      color: #ff4500;
     }
   </style>
 </head>
@@ -157,17 +163,17 @@
     <div class="card-body">
       <ul class="list-unstyled social-links">
         <li>
-          <a href="https://twitter.com/rahwan3d">
+          <a href="https://twitter.com/rahwan3d" class="pressed-label">
             <i class="fa fa-twitter"></i> Twitter
           </a>
         </li>
         <li>
-          <a href="https://www.instagram.com/rahwan3d">
+          <a href="https://www.instagram.com/rahwan3d" class="pressed-label">
             <i class="fa fa-instagram"></i> Instagram
           </a>
         </li>
         <li>
-          <a href="https://www.youtube.com/@rahwan3d">
+          <a href="https://www.youtube.com/@rahwan3d" class="pressed-label">
             <i class="fa fa-youtube"></i> YouTube
           </a>
         </li>
@@ -179,7 +185,7 @@
     <div class="card-body">
       <ul class="list-unstyled links-list">
         <li>
-          <a href="https://linktr.ee/rahwan3d?utm_source=linktree_profile_share&ltsid=ddd07505-589b-4555-9c7c-d94ec6421657">
+          <a href="https://linktr.ee/rahwan3d?utm_source=linktree_profile_share&ltsid=ddd07505-589b-4555-9c7c-d94ec6421657" class="pressed-label">
             <i class="fa fa-external-link"></i> Linktr.ee
           </a>
         </li>
