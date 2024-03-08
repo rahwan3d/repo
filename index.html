@@ -13,9 +13,7 @@
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       background: linear-gradient(45deg, #FF9A8B, #FF6B8B, #8B81FF, #8BE3FF, #81FFAC, #FFC98B, #FFB98B, #8B81FF);
       background-size: 400% 400%;
-      animation: gradient 30s ease infinite;
       color: #fff;
-      overflow: hidden; /* Prevent gradient overflow */
     }
 
     @keyframes gradient {
@@ -175,6 +173,14 @@
 <footer>
   <p>&copy; 2024 rahwan3d. All rights reserved.</p>
 </footer>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.body.style.background = "linear-gradient(45deg, #FF9A8B, #FF6B8B, #8B81FF, #8BE3FF, #81FFAC, #FFC98B, #FFB98B, #8B81FF)";
+    document.body.style.backgroundSize = "400% 400%";
+    document.body.style.animation = "gradient 15s ease infinite";
+  });
+</script>
 
 </body>
 </html>
