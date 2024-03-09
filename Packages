@@ -5,14 +5,15 @@ Architecture: iphoneos-arm64
 Description: A beatutiful Theme to spice up Trollstore
 Author: rahwan3d
 Maintainer: rahwan3d
-Icon: TrollUnrealIcon.png
 Section: Themes
-Depends: com.anemonetheming.anemone | com.spark.snowboard
-Section: Themes
+Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons/TrollUnrealIcon.png 
 Filename : ./debs/com.rahwan3d.TrollUnreal.deb
-Depiction:  https://rahwan3d.github.io/repo/depictions/TrollUnreal
+SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/TrollUnreal/depiction.json
+Depiction:  https://rahwan3d.github.io/repo/depictions/?p=TrollUnreal
 Size: 1158763
 MD5sum: F232A6B2124D632A7BD9133CF998E1F2
+SHA1: 613AD1ACDEFF4F80D8FEF06058D30CE3FB7FA7A8
+SHA256: 4A6D8CAA4C3657243909754C30ADD5EDDE67277182BA72DD2C4A4DA01DD6D5A1
 
 Package: com.rahwan3d.VisionKeysObsidian
 Name: VisionKeys Obsidian
