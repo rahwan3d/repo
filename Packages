@@ -11,9 +11,9 @@ Filename : ./debs/com.rahwan3d.TrollUnreal.deb
 SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/TrollUnreal/depiction.json
 Depiction:  https://rahwan3d.github.io/repo/depictions/?p=TrollUnreal
 Size: 1158763
-MD5sum: F232A6B2124D632A7BD9133CF998E1F2
-SHA1: 613AD1ACDEFF4F80D8FEF06058D30CE3FB7FA7A8
-SHA256: 4A6D8CAA4C3657243909754C30ADD5EDDE67277182BA72DD2C4A4DA01DD6D5A1
+MD5sum: f232a6b2124d632a7bd9133cf998e1f2
+SHA1: 613ad1acdeff4f80d8fef06058d30ce3fb7fa7a8
+SHA256: 4a6d8caa4c3657243909754c30add5edde67277182ba72dd2c4a4da01dd6d5a1
 
 Package: com.rahwan3d.VisionKeysObsidian
 Name: VisionKeys Obsidian
@@ -23,7 +23,11 @@ Architecture: iphoneos-arm64
 Author: rahwan3d
 Description: A beautiful Dark mode theme for Laetus
 Section: Laetus Themes
+Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons/VisionKeysObsidianIcon.png 
 Filename : ./debs/com.rahwan3d.VisionKeysObsidian.deb
+SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/TrollUnreal/depiction.json
 Depiction:  https://rahwan3d.github.io/repo/depictions/VisionKeysObsidian
 Size: 291795
 MD5sum: AAAC10DBCF0774CFA10A755793EA643C
+SHA1: 613AD1ACDEFF4F80D8FEF06058D30CE3FB7FA7A8
+SHA256: 4A6D8CAA4C3657243909754C30ADD5EDDE67277182BA72DD2C4A4DA01DD6D5A1
