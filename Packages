@@ -23,7 +23,7 @@ Architecture: iphoneos-arm64
 Author: rahwan3d
 Description: A beautiful Dark mode theme for Laetus
 Section: Laetus Themes
-Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons/VisionKeysObsidianIcon.png 
+Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons/vko.png 
 Filename : ./debs/com.rahwan3d.VisionKeysObsidian.deb
 SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/TrollUnreal/depiction.json
 Depiction:  https://rahwan3d.github.io/repo/depictions/VisionKeysObsidian
