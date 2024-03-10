@@ -6,12 +6,12 @@ Description: A beatutiful Theme to spice up Trollstore
 Author: rahwan3d
 Maintainer: rahwan3d
 Section: Themes
-Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons/TrollUnrealIcon.png 
 Filename : ./debs/com.rahwan3d.TrollUnreal.deb
 SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/TrollUnreal/depiction.json
 Depiction:  https://rahwan3d.github.io/repo/depictions/?p=TrollUnreal
 Size: 1158296
 MD5sum: 5472a470013a45559f9fa6cc3851f70d
+Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons/TrollUnrealIcon.png
 
 Package: com.rahwan3d.VisionKeysObsidian
 Name: VisionKeys Obsidian
