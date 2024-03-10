@@ -44,7 +44,7 @@ Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons
 Filename : ./debs/com.rahwan3d.VisionKeysCelestia.deb
 SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/VisionKeysCelestia/depiction.json
 Depiction:  https://rahwan3d.github.io/repo/depictions/VisionKeysCelestia
-Size: 291795
-MD5sum: aaac10dbcf0774cfa10a755793ea643c
-SHA1: dcde75af3407b526b94c18173a44167292445b17
-SHA256: 3600b18d7bc9ccd34da4a7d6308ab30b741aef51a19ae7bccd5c5cb169b15e24 
+Size: 968381
+MD5sum: aba0f4d53a0f0ffd4f425cb811508c29
+SHA1: 71498dd6dae1f08a4a9dfcf4eaed7ebd96665c35
+SHA256: fdda0695bd4c2484dc3dd15676b3388aed98adf57907dd0a0b6fcec16a54e578 
