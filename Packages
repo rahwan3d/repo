@@ -10,10 +10,10 @@ Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons
 Filename : ./debs/com.rahwan3d.TrollUnreal.deb
 SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/TrollUnreal/depiction.json
 Depiction:  https://rahwan3d.github.io/repo/depictions/?p=TrollUnreal
-Size: 1158763
-MD5sum: f232a6b2124d632a7bd9133cf998e1f2
-SHA1: 613ad1acdeff4f80d8fef06058d30ce3fb7fa7a8
-SHA256: 4a6d8caa4c3657243909754c30add5edde67277182ba72dd2c4a4da01dd6d5a1
+Size: 1158725
+MD5sum: 6dd4fc16d283c9f5d688f823cf1b6963
+SHA1: 19a2d84ed525bdb3298ed2d5369b5faebf3bb0eb
+SHA256: 8164089cf49f6a771abe6d10f4d97cd796ab9f2b62463a8aa60e0bca5f626c0f
 
 Package: com.rahwan3d.VisionKeysObsidian
 Name: VisionKeys Obsidian
