@@ -11,9 +11,7 @@ Filename : ./debs/com.rahwan3d.TrollUnreal.deb
 SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/TrollUnreal/depiction.json
 Depiction:  https://rahwan3d.github.io/repo/depictions/?p=TrollUnreal
 Size: 1158296
-MD5sum: f232a6b2124d632a7bd9133cf998e1f2
-SHA1: 613ad1acdeff4f80d8fef06058d30ce3fb7fa7a8
-SHA256: 4a6d8caa4c3657243909754c30add5edde67277182ba72dd2c4a4da01dd6d5a1
+MD5sum: 5472a470013a45559f9fa6cc3851f70d
 
 Package: com.rahwan3d.VisionKeysObsidian
 Name: VisionKeys Obsidian
