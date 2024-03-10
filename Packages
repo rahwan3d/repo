@@ -57,11 +57,11 @@ Architecture: iphoneos-arm64
 Author: rahwan3d
 Description: A beautiful Dark Blue theme for Laetus
 Section: Laetus Themes
-Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons/VisionKeysCelestia.png
-Filename : ./debs/com.rahwan3d.VisionKeysCelestia.deb
-SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/VisionKeysCelestia/depiction.json
-Depiction:  https://rahwan3d.github.io/repo/depictions/VisionKeysCelestia
-Size: 968381
-MD5sum: aba0f4d53a0f0ffd4f425cb811508c29
-SHA1: 71498dd6dae1f08a4a9dfcf4eaed7ebd96665c35
-SHA256: fdda0695bd4c2484dc3dd15676b3388aed98adf57907dd0a0b6fcec16a54e578
+Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons/VisionKeysAurora.png
+Filename : ./debs/com.rahwan3d.VisionKeysAurora.deb
+SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/VisionKeysAurora/depiction.json
+Depiction:  https://rahwan3d.github.io/repo/depictions/VisionKeysAurora
+Size: 511465
+MD5sum: e7eb26ab4140aae2f2f7fdc6ee0d079b
+SHA1: df42e6256e83f0745f1c618971800a5439d092db
+SHA256: 7c95dac0ba6dc39df4f0d3c2ced54a800cf50a14b52f5a9934773737b446c7ad
