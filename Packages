@@ -8,9 +8,9 @@ Maintainer: rahwan3d
 Section: Themes
 Filename : ./debs/com.rahwan3d.TrollUnreal.deb
 SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/TrollUnreal/depiction.json
-Depiction:  https://rahwan3d.github.io/repo/depictions/?p=TrollUnreal
-Size: 1158296
-MD5sum: 5472a470013a45559f9fa6cc3851f70d
+Depiction: https://rahwan3d.github.io/repo/depictions/?p=TrollUnreal
+Size: 1158132
+MD5sum: d63ff5be9e8416a2ba7c385c7475d70a  
 Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons/TrollUnrealIcon.png
 
 Package: com.rahwan3d.VisionKeysObsidian
