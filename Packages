@@ -9,8 +9,8 @@ Section: Themes
 Filename : ./debs/com.rahwan3d.TrollUnreal.deb
 SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/TrollUnreal/depiction.json
 Depiction: https://rahwan3d.github.io/repo/depictions/?p=TrollUnreal
-Size: 1158743
-MD5sum: d63ff5be9e8416a2ba7c385c7475d70a  
+Size: 1158743   
+MD5sum: 96369665d00526f9e6cf549053838e7b  
 Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons/TrollUnrealIcon.png
 
 Package: com.rahwan3d.VisionKeysObsidian
@@ -21,14 +21,12 @@ Architecture: iphoneos-arm64
 Author: rahwan3d
 Description: A beautiful Dark mode theme for Laetus
 Section: Laetus Themes
-Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons/VisionkeysObsidian.png 
 Filename : ./debs/com.rahwan3d.VisionKeysObsidian.deb
 SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/VisionkeysObsidian/depiction.json
 Depiction: https://rahwan3d.github.io/repo/depictions/VisionKeysObsidian
-Size: 291795
-MD5sum: aaac10dbcf0774cfa10a755793ea643c
-SHA1: dcde75af3407b526b94c18173a44167292445b17
-SHA256: 3600b18d7bc9ccd34da4a7d6308ab30b741aef51a19ae7bccd5c5cb169b15e24
+Size: 291813
+MD5sum: 29ddcea6d6fb0972cef3be060e5baafc
+Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons/VisionkeysObsidian.png
 
 Package: com.rahwan3d.VisionKeysCelestia
 Name: VisionKeys Celestia
@@ -38,14 +36,12 @@ Architecture: iphoneos-arm64
 Author: rahwan3d
 Description: A beautiful Light mode theme for Laetus
 Section: Laetus Themes
-Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons/VisionKeysCelestia.png
 Filename : ./debs/com.rahwan3d.VisionKeysCelestia.deb
 SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/VisionKeysCelestia/depiction.json
 Depiction: https://rahwan3d.github.io/repo/depictions/VisionKeysCelestia
-Size: 968381
-MD5sum: aba0f4d53a0f0ffd4f425cb811508c29
-SHA1: 71498dd6dae1f08a4a9dfcf4eaed7ebd96665c35
-SHA256: fdda0695bd4c2484dc3dd15676b3388aed98adf57907dd0a0b6fcec16a54e578 
+Size: 968415
+MD5sum: 7bb0313cf2ca13800406ac492282c036
+Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons/VisionKeysCelestia.png
 
 Package: com.rahwan3d.VisionKeysAurora
 Name: VisionKeys Aurora

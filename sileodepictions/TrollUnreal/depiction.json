@@ -32,7 +32,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Darkify\nDarkify is a dark theme for all iOS devices that keeps all icons fimiliar looking but with a dark grey gradient and adds a bit more depth to the icons."
+					"markdown": "## TrollUnreal\nTrollUnreal is a dark theme for all iOS devices that keeps all icons fimiliar looking but with a dark grey gradient and adds a bit more depth to the icons."
 				},
 				{
 					"title": "Suggest icons here!",
@@ -58,7 +58,7 @@
 				},
 				{
 					"title": "Price",
-					"text": "FREE",
+					"text": "Free",
 					"class": "DepictionTableTextView"
 				},
 				{
