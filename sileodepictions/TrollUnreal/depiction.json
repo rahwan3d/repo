@@ -32,7 +32,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## TrollUnreal\nTrollUnreal is a dark theme for all iOS devices that keeps all icons fimiliar looking but with a dark grey gradient and adds a bit more depth to the icons."
+					"markdown": "## TrollUnreal\nTrollUnreal is a dark theme for all iOS devices that keeps all icons familiar looking but with a dark grey gradient and adds a bit more depth to the icons."
 				},
 				{
 					"title": "Suggest icons here!",
@@ -57,6 +57,11 @@
 					"class": "DepictionTableTextView"
 				},
 				{
+					"title": "IOS Versions",
+					"text": "Add your versions manually",
+					"class": "DepictionTableTextView"
+				},
+				{
 					"title": "Price",
 					"text": "Free",
 					"class": "DepictionTableTextView"
@@ -67,8 +72,18 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Github",
-					"action": "https://github.com/StrugglingDoge",
+					"title": "Twitter",
+					"action": "https://twitter.com/rahwan3d",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Instagram",
+					"action": "https://www.instagram.com/rahwan3d",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "TikTok",
+					"action": "https://www.youtube.com/@rahwan3d",
 					"class": "DepictionTableButtonView"
 				},
 				{
