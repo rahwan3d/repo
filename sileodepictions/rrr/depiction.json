@@ -7,10 +7,6 @@
 			"tabname": "Details",
 			"views": [
 				{
-					"class": "DepictionMarkdownView",
-					"markdown": "A beautiful theme to spice up Trollstore."
-				},
-				{
 					"itemCornerRadius": 6,
 					"itemSize": "{320, 275.41333333333336}",
 					"screenshots": [
@@ -18,11 +14,6 @@
 							"accessibilityText": "Showcase",
 							"url": "https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/ThemesShowcase/TrollUnrealSC1.png",
 							"fullSizeURL": "https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/ThemesShowcase/TrollUnrealSC1.png"
-						},
-						{
-							"accessibilityText": "Second Showcase",
-							"url": "https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/ThemesShowcase/TrollUnrealSC2.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/ThemesShowcase/TrollUnrealSC2.png"
 						}
 					],
 					"ipad": {
@@ -33,11 +24,6 @@
 								"accessibilityText": "Showcase",
 								"url":  "https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/ThemesShowcase/TrollUnrealSC1.png?size=640",
 								"fullSizeURL":  "https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/ThemesShowcase/TrollUnrealSC1.png"
-							},
-							{
-								"accessibilityText": "Second Showcase",
-								"url":  "https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/ThemesShowcase/TrollUnrealSC2.png?size=640",
-								"fullSizeURL":  "https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/ThemesShowcase/TrollUnrealSC2.png"
 							}
 						],
 						"class": "DepictionScreenshotView"
@@ -47,6 +33,14 @@
 				{
 					"class": "DepictionMarkdownView",
 					"markdown": "## TrollUnreal\nTrollUnreal is a dark theme for all iOS devices that keeps all icons familiar looking but with a dark grey gradient and adds a bit more depth to the icons."
+				},
+				{
+					"title": "Suggest icons here!",
+					"action": "https://forms.gle/x38ZhSwcx3wreiUUA",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"class": "DepictionSeparatorView"
 				},
 				{
 					"title": "Latest Version",
@@ -64,7 +58,7 @@
 				},
 				{
 					"title": "IOS Versions",
-					"text": "12-16.6",
+					"text": "Add your versions manually",
 					"class": "DepictionTableTextView"
 				},
 				{
