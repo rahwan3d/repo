@@ -12,8 +12,8 @@
 					"screenshots": [
 						{
 							"accessibilityText": "Showcase",
-							"url": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.struggling.darkify/screenshots/s1.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.struggling.darkify/screenshots/s1.png"
+							"url": "https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/ThemesShowcase/TrollUnrealSC1.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/ThemesShowcase/TrollUnrealSC1.png"
 						}
 					],
 					"ipad": {
@@ -22,8 +22,8 @@
 						"screenshots": [
 							{
 								"accessibilityText": "Showcase",
-								"url": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.struggling.darkify/screenshots/s1.png?size=640",
-								"fullSizeURL": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.struggling.darkify/screenshots/s1.png"
+								"url":  "https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/ThemesShowcase/TrollUnrealSC1.png?size=640",
+								"fullSizeURL":  "https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/ThemesShowcase/TrollUnrealSC1.png"
 							}
 						],
 						"class": "DepictionScreenshotView"
