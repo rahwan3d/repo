@@ -32,7 +32,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Darkify\nDarkify is a dark theme for all iOS devices that keeps all icons fimiliar looking but with a dark grey gradient and adds a bit more depth to the icons."
+					"markdown": "## VisionKeys Obsidian\nVisionKeys Obsidian is a dark theme for all iOS devices that keeps all icons fimiliar looking but with a dark grey gradient and adds a bit more depth to the icons."
 				},
 				{
 					"title": "Suggest icons here!",
@@ -53,12 +53,12 @@
 				},
 				{
 					"title": "Released",
-					"text": "2/3/2024",
+					"text": "5/3/2024",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Price",
-					"text": "FREE",
+					"text": "Free",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -97,7 +97,7 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2/3/2024</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 5/3/2024</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}

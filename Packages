@@ -22,10 +22,10 @@ Author: rahwan3d
 Description: A beautiful Dark mode theme for Laetus
 Section: Laetus Themes
 Filename : ./debs/com.rahwan3d.VisionKeysObsidian.deb
-SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/VisionkeysObsidian/depiction.json
-Depiction: https://rahwan3d.github.io/repo/depictions/VisionKeysObsidian
+SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/VisionKeysObsidian/depiction.json
+Depiction: https://rahwan3d.github.io/repo/depictions/?p=VisionKeysObsidian
 Size: 291813
-MD5sum: 29ddcea6d6fb0972cef3be060e5baafc
+MD5sum: b62e7f6f0af6d40d27d4b8a57127f7ba
 Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons/VisionkeysObsidian.png
 
 Package: com.rahwan3d.VisionKeysCelestia
@@ -38,7 +38,7 @@ Description: A beautiful Light mode theme for Laetus
 Section: Laetus Themes
 Filename : ./debs/com.rahwan3d.VisionKeysCelestia.deb
 SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/VisionKeysCelestia/depiction.json
-Depiction: https://rahwan3d.github.io/repo/depictions/VisionKeysCelestia
+Depiction: https://rahwan3d.github.io/repo/depictions/?p=VisionKeysCelestia
 Size: 968415
 MD5sum: 7bb0313cf2ca13800406ac492282c036
 Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons/VisionKeysCelestia.png
@@ -53,7 +53,7 @@ Description: A beautiful Dark Blue theme for Laetus
 Section: Laetus Themes
 Filename : ./debs/com.rahwan3d.VisionKeysAurora.deb
 SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/VisionKeysAurora/depiction.json
-Depiction: https://rahwan3d.github.io/repo/depictions/VisionKeysAurora
+Depiction: https://rahwan3d.github.io/repo/depictions/?p=VisionKeysAurora
 Size: 511542
 MD5sum: 48ae9e3833d12cb120c77871e7af5790
 Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons/VisionKeysAurora.png
