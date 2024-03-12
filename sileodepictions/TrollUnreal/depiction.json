@@ -63,7 +63,7 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "IOS Versions",
+					"title": "iOS Versions",
 					"text": "12-16.6",
 					"class": "DepictionTableTextView"
 				},
@@ -89,7 +89,12 @@
 				},
 				{
 					"title": "TikTok",
-					"action": "https://www.youtube.com/@rahwan3d",
+					"action": "https://www.tiktok.com/@rahwan3d",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Linktr.ee",
+					"action": "https://linktr.ee/rahwan3d",
 					"class": "DepictionTableButtonView"
 				},
 				{
