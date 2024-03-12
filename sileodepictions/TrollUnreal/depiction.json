@@ -1,14 +1,14 @@
 {
 	"minVersion": "0.1",
 	"headerImage": "https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/ThemesBanners/TrollUnrealHeader.png",
-	"tintColor": "#3f4042",
+	"tintColor": "#05D7ED",
 	"tabs": [
 		{
 			"tabname": "Details",
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "A beautiful theme to spice up Trollstore."
+					"markdown": "A beautiful theme to spice up Trollstore"
 				},
 				{
 					"itemCornerRadius": 6,
@@ -47,6 +47,9 @@
 				{
 					"class": "DepictionMarkdownView",
 					"markdown": "## TrollUnreal\nTrollUnreal is a dark theme for all iOS devices that keeps all icons familiar looking but with a dark grey gradient and adds a bit more depth to the icons."
+				},
+				{
+					"class": "DepictionSeparatorView"
 				},
 				{
 					"title": "Latest Version",
