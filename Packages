@@ -7,7 +7,7 @@ Author: rahwan3d
 Maintainer: rahwan3d
 Section: Themes
 Filename : ./debs/com.rahwan3d.TrollUnreal.deb
-SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/TrollUnreal/depiction.json
+SileoDepictions: https://rahwan3d.github.io/repo/sileo-depictions/TrollUnreal/depiction.json
 Depiction: https://rahwan3d.github.io/repo/depictions/?p=TrollUnreal
 Size: 1158743   
 MD5sum: 96369665d00526f9e6cf549053838e7b  
@@ -22,7 +22,7 @@ Author: rahwan3d
 Description: A beautiful Dark mode theme for Laetus
 Section: Laetus Themes
 Filename : ./debs/com.rahwan3d.VisionKeysObsidian.deb
-SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/VisionKeysObsidian/depiction.json
+SileoDepictions: https://rahwan3d.github.io/repo/sileo-depictions/VisionKeysObsidian/depiction.json
 Depiction: https://rahwan3d.github.io/repo/depictions/?p=VisionKeysObsidian
 Size: 291813
 MD5sum: b62e7f6f0af6d40d27d4b8a57127f7ba
@@ -37,7 +37,7 @@ Author: rahwan3d
 Description: A beautiful Light mode theme for Laetus
 Section: Laetus Themes
 Filename : ./debs/com.rahwan3d.VisionKeysCelestia.deb
-SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/VisionKeysCelestia/depiction.json
+SileoDepictions: https://rahwan3d.github.io/repo/sileo-depictions/VisionKeysCelestia/depiction.json
 Depiction: https://rahwan3d.github.io/repo/depictions/?p=VisionKeysCelestia
 Size: 968415
 MD5sum: 7bb0313cf2ca13800406ac492282c036
@@ -52,7 +52,7 @@ Author: rahwan3d
 Description: A beautiful Dark Blue theme for Laetus
 Section: Laetus Themes
 Filename : ./debs/com.rahwan3d.VisionKeysAurora.deb
-SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/VisionKeysAurora/depiction.json
+SileoDepictions: https://rahwan3d.github.io/repo/sileo-depictions/VisionKeysAurora/depiction.json
 Depiction: https://rahwan3d.github.io/repo/depictions/?p=VisionKeysAurora
 Size: 511542
 MD5sum: 48ae9e3833d12cb120c77871e7af5790
