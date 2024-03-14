@@ -10,7 +10,9 @@ Filename : ./debs/com.rahwan3d.TrollUnreal.deb
 SileoDepictions: https://rahwan3d.github.io/repo/sileo-depictions/TrollUnreal/depiction.json
 Depiction: https://rahwan3d.github.io/repo/depictions/?p=TrollUnreal
 Size: 1158743   
-MD5sum: 96369665d00526f9e6cf549053838e7b  
+MD5sum: 96369665d00526f9e6cf549053838e7b
+SHA1: a829c89fc6fe119a57583b6152769bc0bc66cc97
+SHA256: 161548de7864395521131cf797c60cf64ea51c56598137b777020d294de4986b  
 Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons/TrollUnrealIcon.png
 
 Package: com.rahwan3d.VisionKeysObsidian
