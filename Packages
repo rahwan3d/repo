@@ -7,12 +7,10 @@ Author: rahwan3d
 Maintainer: rahwan3d
 Section: Themes
 Filename : ./debs/com.rahwan3d.TrollUnreal.deb
-SileoDepictions: https://rahwan3d.github.io/repo/sileo-depictions/TrollUnreal/depiction.json
+SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/TrollUnreal/depiction.json
 Depiction: https://rahwan3d.github.io/repo/depictions/?p=TrollUnreal
 Size: 1158743   
-MD5sum: 96369665d00526f9e6cf549053838e7b
-SHA1: a829c89fc6fe119a57583b6152769bc0bc66cc97
-SHA256: 161548de7864395521131cf797c60cf64ea51c56598137b777020d294de4986b  
+MD5sum: 96369665d00526f9e6cf549053838e7b  
 Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons/TrollUnrealIcon.png
 
 Package: com.rahwan3d.VisionKeysObsidian
@@ -24,7 +22,7 @@ Author: rahwan3d
 Description: A beautiful Dark mode theme for Laetus
 Section: Laetus Themes
 Filename : ./debs/com.rahwan3d.VisionKeysObsidian.deb
-SileoDepictions: https://rahwan3d.github.io/repo/sileo-depictions/VisionKeysObsidian/depiction.json
+SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/VisionKeysObsidian/depiction.json
 Depiction: https://rahwan3d.github.io/repo/depictions/?p=VisionKeysObsidian
 Size: 291813
 MD5sum: b62e7f6f0af6d40d27d4b8a57127f7ba
@@ -39,7 +37,7 @@ Author: rahwan3d
 Description: A beautiful Light mode theme for Laetus
 Section: Laetus Themes
 Filename : ./debs/com.rahwan3d.VisionKeysCelestia.deb
-SileoDepictions: https://rahwan3d.github.io/repo/sileo-depictions/VisionKeysCelestia/depiction.json
+SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/VisionKeysCelestia/depiction.json
 Depiction: https://rahwan3d.github.io/repo/depictions/?p=VisionKeysCelestia
 Size: 968415
 MD5sum: 7bb0313cf2ca13800406ac492282c036
@@ -54,7 +52,7 @@ Author: rahwan3d
 Description: A beautiful Dark Blue theme for Laetus
 Section: Laetus Themes
 Filename : ./debs/com.rahwan3d.VisionKeysAurora.deb
-SileoDepictions: https://rahwan3d.github.io/repo/sileo-depictions/VisionKeysAurora/depiction.json
+SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/VisionKeysAurora/depiction.json
 Depiction: https://rahwan3d.github.io/repo/depictions/?p=VisionKeysAurora
 Size: 511542
 MD5sum: 48ae9e3833d12cb120c77871e7af5790
