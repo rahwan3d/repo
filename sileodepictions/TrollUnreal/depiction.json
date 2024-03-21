@@ -1,6 +1,6 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/ThemesBanners/TrollUnrealHeader2.png",
+	"headerImage": "https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/ThemesBanners/TrollUnrealHeader3.png",
 	"tintColor": "#05D7ED",
 	"tabs": [
 		{
@@ -57,17 +57,17 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.0",
+					"text": "1.0.1",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Released",
-					"text": "2/3/2024",
+					"text": "22/3/2024",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "iOS Versions",
-					"text": "12-16.6",
+					"text": "iOS 12-16.6",
 					"class": "DepictionTableTextView"
 				},
 				{

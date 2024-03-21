@@ -1,59 +1,16 @@
 Package: com.rahwan3d.TrollUnreal
 Name: TrollUnreal
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Description: A beatutiful Theme to spice up Trollstore
 Author: rahwan3d
 Maintainer: rahwan3d
 Section: Themes
 Filename : ./debs/com.rahwan3d.TrollUnreal.deb
+Size: 1430876
+MD5sum: 9e59a2aac9c39443e1d6b5cb615fc3b6
+SHA1:  2fe37a84b8018ee13b55cc14b8925e56560f7ece
+SHA256: ec186cfa1c25a3263d443020b1a65fe6d4a18e3d2357ff577994729054b952cc
 SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/TrollUnreal/depiction.json
 Depiction: https://rahwan3d.github.io/repo/depictions/?p=TrollUnreal
-Size: 1158743   
-MD5sum: 96369665d00526f9e6cf549053838e7b  
 Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons/TrollUnrealIcon.png
-
-Package: com.rahwan3d.VisionKeysObsidian
-Name: VisionKeys Obsidian
-Version: 1.0
-Maintainer: rahwan3d
-Architecture: iphoneos-arm64
-Author: rahwan3d
-Description: A beautiful Dark mode theme for Laetus
-Section: Laetus Themes
-Filename : ./debs/com.rahwan3d.VisionKeysObsidian.deb
-SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/VisionKeysObsidian/depiction.json
-Depiction: https://rahwan3d.github.io/repo/depictions/?p=VisionKeysObsidian
-Size: 291813
-MD5sum: b62e7f6f0af6d40d27d4b8a57127f7ba
-Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons/VisionkeysObsidian.png
-
-Package: com.rahwan3d.VisionKeysCelestia
-Name: VisionKeys Celestia
-Version: 1.0
-Maintainer: rahwan3d
-Architecture: iphoneos-arm64
-Author: rahwan3d
-Description: A beautiful Light mode theme for Laetus
-Section: Laetus Themes
-Filename : ./debs/com.rahwan3d.VisionKeysCelestia.deb
-SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/VisionKeysCelestia/depiction.json
-Depiction: https://rahwan3d.github.io/repo/depictions/?p=VisionKeysCelestia
-Size: 968415
-MD5sum: 7bb0313cf2ca13800406ac492282c036
-Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons/VisionKeysCelestia.png
-
-Package: com.rahwan3d.VisionKeysAurora
-Name: VisionKeys Aurora
-Version: 1.0
-Maintainer: rahwan3d
-Architecture: iphoneos-arm64
-Author: rahwan3d
-Description: A beautiful Dark Blue theme for Laetus
-Section: Laetus Themes
-Filename : ./debs/com.rahwan3d.VisionKeysAurora.deb
-SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/VisionKeysAurora/depiction.json
-Depiction: https://rahwan3d.github.io/repo/depictions/?p=VisionKeysAurora
-Size: 511542
-MD5sum: 48ae9e3833d12cb120c77871e7af5790
-Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons/VisionKeysAurora.png
