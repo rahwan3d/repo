@@ -51,7 +51,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## TrollUnreal\nTrollUnreal is a dark theme for all iOS devices that keeps all icons familiar looking but with a dark grey gradient and adds a bit more depth to the icons."
+					"markdown": "## TrollUnreal\nIntroducing TrollUnreal, a vibrant and playful theme designed exclusively for TrollStore. With over 20 unique icons tailored for all iOS devices, each icon boasts distinctive aesthetics, featuring intricate shadows and captivating gradients. Elevate your device's appearance with TrollUnreal and add a touch of whimsy to your digital experience."
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -126,12 +126,12 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Adds more icons.",
+					"markdown": "\t\n\u2022 Adds 5 new icons.",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 21/3/2024</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 22/3/2024</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				},
@@ -145,7 +145,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Adds 20+ new icons.\n\n<small>Initial release</small>",
+					"markdown": "\t\n\u2022 Adds 20+ icons.\t\n\u2022 Initial release.",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
