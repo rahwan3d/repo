@@ -36,13 +36,13 @@
 						"screenshots": [
 							{
 								"accessibilityText": "Showcase",
-								"url":  "https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/ThemesShowcase/TrollUnrealSC1.png?size=640",
-								"fullSizeURL":  "https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/ThemesShowcase/TrollUnrealSC1.png"
+								"url": "https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/ThemesShowcase/TrollUnrealSC1.png?size=640",
+								"fullSizeURL": "https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/ThemesShowcase/TrollUnrealSC1.png"
 							},
 							{
 								"accessibilityText": "Second Showcase",
-								"url":  "https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/ThemesShowcase/TrollUnrealSC2.png?size=640",
-								"fullSizeURL":  "https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/ThemesShowcase/TrollUnrealSC2.png"
+								"url": "https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/ThemesShowcase/TrollUnrealSC2.png?size=640",
+								"fullSizeURL": "https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/ThemesShowcase/TrollUnrealSC2.png"
 							}
 						],
 						"class": "DepictionScreenshotView"
@@ -106,7 +106,7 @@
 					"class": "DepictionTableButtonView"
 				},
 				{
-					"spacing": 20,
+					"spacing": 16,
 					"class": "DepictionSpacerView"
 				}
 			],
@@ -122,7 +122,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Adds 5 new icons.",
+					"markdown": "\t\n\u2022 Adds 5 new icons.\n\n<small>Initial release</small>",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
@@ -141,7 +141,12 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Adds 20+ icons.\t\n\u2022 Initial release.",
+					"markdown": "\t\n\u2022 Adds 20+ icons.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 Initial release.",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
