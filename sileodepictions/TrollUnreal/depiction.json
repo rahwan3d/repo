@@ -10,6 +10,7 @@
 	"tabs": [
 		{
 			"tabname": "Details",
+			"tintColor": "#FFC300",
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
@@ -114,6 +115,7 @@
 		},
 		{
 			"tabname": "Changelog",
+			"tintColor": "#FF4136",
 			"views": [
 				{
 					"title": "1.0.1",
