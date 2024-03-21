@@ -148,7 +148,7 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"spacing": 6,
+					"spacing": 16,
 					"class": "DepictionSpacerView"
 				},
 				{
@@ -161,11 +161,6 @@
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2/3/2024</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				}
 			],
 			"class": "DepictionStackView"
 		}
