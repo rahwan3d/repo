@@ -143,13 +143,22 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Adds 20+ icons.\n",
+					"markdown": "\t\n\u2022 Adds 20+ icons.",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
+					"spacing": 6,
+					"class": "DepictionSpacerView"
+				},
+				{
 					"markdown": "\t\n\u2022 Initial release.",
 					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2/3/2024</small>",
+					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				},
 				{
@@ -163,3 +172,4 @@
 	],
 	"class": "DepictionTabView"
 }
+				
