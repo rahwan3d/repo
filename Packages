@@ -14,3 +14,20 @@ SHA256: ec186cfa1c25a3263d443020b1a65fe6d4a18e3d2357ff577994729054b952cc
 SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/TrollUnreal/depiction.json
 Depiction: https://rahwan3d.github.io/repo/depictions/?p=TrollUnreal
 Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons/TrollUnrealIcon.png
+
+Package: com.rahwan3d.TimeQuill
+Name: TimeQuill
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: A beatutiful Theme to spice up Clock app
+Author: rahwan3d
+Maintainer: rahwan3d
+Section: Clock Themes
+Filename : ./debs/com.rahwan3d.TimeQuill.deb
+Size: 1430876
+MD5sum: 9e59a2aac9c39443e1d6b5cb615fc3b6
+SHA1:  2fe37a84b8018ee13b55cc14b8925e56560f7ece
+SHA256: ec186cfa1c25a3263d443020b1a65fe6d4a18e3d2357ff577994729054b952cc
+SileoDepiction: https://rahwan3d.github.io/repo/sileodepictions/TimeQuill/depiction.json
+Depiction: https://rahwan3d.github.io/repo/depictions/?p=TimeQuill
+Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons/TimeQuill.png
